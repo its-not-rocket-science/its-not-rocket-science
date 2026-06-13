@@ -1,18 +1,47 @@
 # Paul Schleifer
 
-Independent researcher and software engineer. I work at the boundary between formal methods and things that actually matter — building tools and writing papers that apply rigorous mathematics to questions about governance, cooperation, knowledge, and safety.
+Independent researcher and software engineer building reproducible systems for governance, auditability, simulation, and AI-assisted reasoning.
 
-Most of my work is in one of three clusters:
+I am most interested in work where rigorous models meet messy public problems: legal equality, institutional resilience, policy decisioning, knowledge systems, climate co-operation, and deterministic simulation.
 
-**Research** — formal models of political freedom and governance across 2,600 years ([isonomia](https://its-not-rocket-science.github.io/isonomia/)); tensor game theory and reinforcement learning applied to climate coalition discovery ([tipping the climate equilibrium](https://its-not-rocket-science.github.io/tensor-based-game-theory-identifying-critical-coalitions-climate-change-negotiations/)); constrained spacetime geometry and chronology protection ([fixed_points_in_time_tensors](https://github.com/its-not-rocket-science/fixed_points_in_time_tensors)).
+## Start here
 
-**AI safety and knowledge systems** — layered ethical moderation with symbolic and semantic reasoning ([asimov](https://github.com/its-not-rocket-science/asimov)); ontology-grounded transformer architecture for interpretable reasoning ([koios](https://github.com/its-not-rocket-science/koios)); specialist embedding routing and reproducible retrieval evaluation ([kalmanorix](https://github.com/its-not-rocket-science/kalmanorix)); knowledge graph growth control via clade-based hierarchy ([veloclade](https://github.com/its-not-rocket-science/veloclade)).
+| Project | What it shows | Status |
+|---|---|---|
+| [Isonomia](https://github.com/its-not-rocket-science/isonomia) | Data, code, and papers modelling equality under law and governance resilience across historical systems | Active research repository |
+| [Ananke](https://github.com/its-not-rocket-science/ananke) | Deterministic TypeScript simulation kernel with replay, stable API boundaries, conformance tests, and host-owned integration | Active engineering project |
+| [SENA](https://github.com/its-not-rocket-science/sena) | Deterministic policy-as-code engine for auditable Jira and ServiceNow approval workflows | Alpha product prototype |
 
-**World-building and narrative** — [Ananke](https://github.com/its-not-rocket-science/ananke) is a deterministic simulation engine for imagined worlds, with bridges to Unity, Godot, Three.js, and an LLM-assisted narrative layer. [The Unfinished World](https://github.com/its-not-rocket-science/the-unfinished-world) is built on top of it: an existentialist narrative game where every choice writes your philosophy.
+## Research
 
-There are also tools in progress for [vinyl restoration](https://github.com/its-not-rocket-science/warplitzer), [enterprise policy decisioning](https://github.com/its-not-rocket-science/sena), [LLM pruning ROI](https://github.com/its-not-rocket-science/atropos), [micronutrient analysis](https://github.com/its-not-rocket-science/nutri-matic), and [energy-aware code auditing](https://github.com/its-not-rocket-science/code-green-code), because breadth is a feature, not a bug.
+- [Isonomia](https://its-not-rocket-science.github.io/isonomia/) — a formal model of political freedom, legal equality, and governance resilience across roughly 2,600 years of historical systems.
+- [Tipping the climate equilibrium](https://its-not-rocket-science.github.io/tensor-based-game-theory-identifying-critical-coalitions-climate-change-negotiations/) — tensor game theory and reinforcement-learning experiments for climate coalition discovery.
+- [Fixed points in time tensors](https://github.com/its-not-rocket-science/fixed_points_in_time_tensors) — supporting code for work on constrained spacetime events and chronology protection.
+
+## AI, knowledge systems, and auditability
+
+- [SENA](https://github.com/its-not-rocket-science/sena) — deterministic policy evaluation for enterprise approval workflows, with replayable audit evidence.
+- [Asimov](https://github.com/its-not-rocket-science/asimov) — layered ethical moderation combining rules, semantic reflection, and planning.
+- [Kalmanorix](https://github.com/its-not-rocket-science/kalmanorix) — specialist embedding routing and reproducible retrieval evaluation.
+- [Koios](https://github.com/its-not-rocket-science/koios) — exploratory ontology-grounded transformer architecture for interpretable reasoning.
+- [Veloclade](https://github.com/its-not-rocket-science/veloclade) — knowledge graph growth control using clade-style hierarchy.
+
+## Simulation, narrative, and tools
+
+- [Ananke](https://github.com/its-not-rocket-science/ananke) — deterministic simulation for imagined worlds, designed to sit inside a host-owned rendering, networking, and persistence stack.
+- [The Unfinished World](https://github.com/its-not-rocket-science/the-unfinished-world) — narrative game work built around philosophical choice and world-state consequences.
+- [Warplitzer](https://github.com/its-not-rocket-science/warplitzer) — experimental multi-transfer vinyl restoration.
+- [Nutri-Matic](https://github.com/its-not-rocket-science/nutri-matic) — micronutrient analysis tooling.
+- [Code Green Code](https://github.com/its-not-rocket-science/code-green-code) — energy-aware code-auditing experiments.
+- [Atropos](https://github.com/its-not-rocket-science/atropos) — LLM pruning and return-on-investment modelling.
+
+## How to read this profile
+
+Some repositories are working software, some are paper-support repositories, and some are research prototypes. I try to make that distinction explicit in each README.
+
+The common thread is not a single framework or language. It is the attempt to make complex claims testable, replayable, and inspectable.
 
 ---
-
-📄 ORCID: [0009-0004-7972-3566](https://orcid.org/0009-0004-7972-3566)  
-📍 London
+Dr Paul Schleifer
+[ORCID: 0009-0004-7972-3566](https://orcid.org/0009-0004-7972-3566)  
+London, UK
